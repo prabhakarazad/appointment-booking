@@ -15,12 +15,12 @@ Clone the project repository to your local machine using the following command:
 
 git clone https://github.com/prabhakarazad/appointment-booking.git <folder-name>
 
-Replace <folder-name> with the name you want to give to the local project folder.
+Replace folder-name with the name you want to give to the local project folder.
 
 # 2. Navigate to the Project Folder
 Navigate to the project folder that you cloned in the previous step:
 
-cd <folder-name>
+cd folder-name
 
 # 3. Install Dependencies
 Install the project dependencies using the package manager Yarn:

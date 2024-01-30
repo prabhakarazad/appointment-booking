@@ -4,7 +4,7 @@ import Dropdown from "./Dropdown";
 import SlotButton from "./SlotButton";
 import Loader from "./Loader";
 
-import { DateFormat, formatDate } from "../helper/dateFormat";
+import { DateFormat, formatDate } from "../helper/DateFormat";
 
 function SlotSection({ dateSlot, selectedDate, isLoading }) {
   const formatSelecetdDate = DateFormat(selectedDate);

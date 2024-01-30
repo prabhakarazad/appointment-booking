@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 
 import Navbar from "./components/Navbar";
 import Calendar from "./components/Calendar";
-import SlotSection from "./components/slotSection";
+import SlotSection from "./components/SlotSection";
 import Footer from "./components/Footer";
 
-import { DateFormat } from "./helper/dateFormat";
+import { DateFormat } from "./helper/DateFormat";
 import RightBand1 from "./assets/RightBand1.png";
 import RightBand2 from "./assets/RightBand2.png";
 import RightBand3 from "./assets/RightBand3.png";
